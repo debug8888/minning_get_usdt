@@ -14,14 +14,14 @@
 
 # 总后台截图
 
-![](img/admin_1)
+![](img/admin_1.png)
 
 
-![](img/admin_2)
+![](img/admin_2.png)
 
-![](img/admin_3)
+![](img/admin_3.png)
 
-![](img/admin_4)
+![](img/admin_4.png)
 
 
 # 说明
