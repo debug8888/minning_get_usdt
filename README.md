@@ -1,22 +1,35 @@
-# 挖矿盗U  挖矿秒U 盗U系统 USDT  波场链 挖矿盗U
-# 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
+# 1：挖矿盗U  挖矿秒U 盗U系统 USDT  波场链 挖矿盗U
+# 2：此系统只是波场链的   只是波场链的  只是波场链的
+# 3：此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
 # 联系 TG @ttt88pay
-# 系统截图如下
+# 前台用户截图如下
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=2c1179e6fa609923811405a230c83e05)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=1a30422eab343d227dd13bb17d5b7aba)
+![](img/1.png)
+![](img/2.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=1e35812c60897dc02c4038bb1eea6063)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=a60e663494c725372b1e2b4aa260079f)
+![](img/3.png)
+
+![](img/4.png)
 
 # 总后台截图
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=0cdd56e802ec75244a610f65317dcf18)
+![](img/admin_1)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=a9d8c617ef228dba5e8eae44fc4e5084)
+![](img/admin_2)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=a350f9ccd7f6e4811d0b39d65f17a03d)
+![](img/admin_3)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=babfdad50daf1b1f2a622a12f6ed6280)
+![](img/admin_4)
+
+
+# 说明
+
+## 1：上面的系统所展示的可能有时候满足不了所有客户的需求， 但是这边也可以进行定制开发。具体定制费用， 请联系技术。这边是一手代码直接和技术联系 没有中间商。 没有中间商。 没有中间商。 没有中间商。
+
+## 2：市面有可能有和我这个系统一模一样的，那就是盗版，有可能是其他客户购买以后泄漏出去的，最好不要买盗版的，很多的未知问题。
+
+## 3：代码开源 无加密 支持二次开发。 到时购买之后不放心 可以自行验证检查。
+
+## 目前此系统没有演示，因为每个月服务器成本也挺高 ， 请放心代码肯定是本人的
