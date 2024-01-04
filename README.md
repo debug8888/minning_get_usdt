@@ -2,6 +2,11 @@
 # 2：此系统只是波场链的   只是波场链的  只是波场链的
 # 3：此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
 # 联系 TG @ttt88pay
+
+# 代码截图
+![Snipaste_2024-01-04_16-19-39](https://github.com/debug8888/minning_get_usdt/assets/93066952/1a5912a6-603a-4519-948b-e30bd1032b49)
+![11](https://github.com/debug8888/minning_get_usdt/assets/93066952/c245f11b-ccaa-4f09-8791-05f9ef27ba3d)
+
 # 前台用户截图如下
 
 
